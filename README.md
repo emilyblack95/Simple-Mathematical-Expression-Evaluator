@@ -7,4 +7,4 @@ Example Input (without quotations):
 "7*5/30" <br />
 "2.5*2.5" <br />
 "1+2-3" <br /> 
-"1-2+3" <br />
+"1-2+3"
