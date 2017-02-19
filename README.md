@@ -1,4 +1,4 @@
-# Simple-Mathematical-Expression-Engine
+# Simple-Mathematical-Expression-Evaluator
 Takes a String expression, using the operators: "*", "/", "+", "-", with no spaces, and returns the result. Supports Doubles as well.
 
 Example Input (without quotations):
