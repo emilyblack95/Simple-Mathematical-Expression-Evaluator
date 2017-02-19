@@ -11,7 +11,7 @@ public class SMEE
 	public static double calculateExpr(String dataInput)
 	{
 		String data = dataInput;
-		String num1 = ""; //Leftmost numer from operator
+		String num1 = ""; //Leftmost number from operator
 		String num2 = ""; //Rightmost number from operator
 		String expr = "";
 		double x = 0;
